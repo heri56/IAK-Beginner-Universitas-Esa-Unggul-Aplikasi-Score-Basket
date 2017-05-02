@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/heri/AndroidStudioProjects/SkorBasket/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/heri/AndroidStudioProjects/SkorBasket/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_52355df43043c087b6ba4f9f9541ad7308bc885a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/heri/AndroidStudioProjects/SkorBasket/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef39dbfeeb1e582ac865dee5da589b8543434556">
+        <dex dex="/home/heri/AndroidStudioProjects/SkorBasket/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_de888847d8f684fd8f63ad6109c73d16003cb635/classes.dex" />
+    </item>
+
+</items>
