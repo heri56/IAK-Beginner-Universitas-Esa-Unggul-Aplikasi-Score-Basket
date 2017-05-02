@@ -10,18 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
-
-        </activity>
-        <activity android:name=".SkorActivity" />
-        <activity android:name=".Ac1" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
-        <activity android:name=".Ac2" />
-        <activity android:name=".Ac3"></activity>
+        <activity android:name=".SkorActivity" />
+        <!--<activity android:name=".Ac1" >-->
+        <!--</activity>-->
+         <!--<activity android:name=".Ac2" />-->
+         <!--<activity android:name=".Ac3"></activity>-->
     </application>
 
 </manifest>
